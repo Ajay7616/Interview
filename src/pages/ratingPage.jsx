@@ -9,6 +9,6 @@ const ratingPage = () => {
         <RatingForm />
     </div>
   )
-
+}
 
 export default ratingPage;
