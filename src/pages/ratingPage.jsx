@@ -1,6 +1,6 @@
 import React from 'react';
 import Sidebar from '../component/navbar/Sidebar';
-import RatingForm from '../component/form/RatingForm'
+import RatingForm from '../component/Rating-Form/RatingForm';
 
 const ratingPage = () => {
   return (
@@ -9,6 +9,6 @@ const ratingPage = () => {
         <RatingForm />
     </div>
   )
-}
+
 
 export default ratingPage;
